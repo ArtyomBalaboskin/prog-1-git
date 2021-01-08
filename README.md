@@ -1,1 +1,1 @@
-# prog-1-git
+Mans pirmais gits projekts
